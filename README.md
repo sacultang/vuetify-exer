@@ -5,7 +5,7 @@
 Class="Fluid" > width 100%
 
 
-V-row & v-col
+### V-row & v-col
 V-row = 행 v-col= 열
 
 V-col은 row안에 있어야하고 컨텐츠는 col 안에 있어야 함
@@ -15,7 +15,7 @@ Dense = gutter size 8px
 No-gutters = 0
 
 
-Align = 수직정렬
+### Align = 수직정렬
 Align = row에 적용
 Align="center" , align="end" ,align="start"
 
@@ -30,7 +30,8 @@ Md="4" md사이즈 일때 3개
 Lg="3" lg사이즈 일때 4개
 Cols="auto" 는 컨텐츠의 사이즈 만큼
 
-수평 정렬
+### 수평 정렬
+
 Justify 속성 = v-row 속성
 End,center,start,space-around, space-between
 
